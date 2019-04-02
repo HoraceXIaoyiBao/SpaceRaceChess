@@ -1,0 +1,7 @@
+C:\Sandpit\Student Project\Space Race\Space Race\bin\Debug\Space Race.exe.config
+C:\Sandpit\Student Project\Space Race\Space Race\bin\Debug\Space Race.exe
+C:\Sandpit\Student Project\Space Race\Space Race\bin\Debug\Space Race.pdb
+C:\Sandpit\Student Project\Space Race\Space Race\obj\Debug\ConsoleInterface Class.csprojAssemblyReference.cache
+C:\Sandpit\Student Project\Space Race\Space Race\obj\Debug\ConsoleInterface Class.csproj.CoreCompileInputs.cache
+C:\Sandpit\Student Project\Space Race\Space Race\obj\Debug\Space Race.exe
+C:\Sandpit\Student Project\Space Race\Space Race\obj\Debug\Space Race.pdb
